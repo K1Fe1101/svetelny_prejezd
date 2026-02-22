@@ -1,4 +1,4 @@
-<b>Svetelný přejezd</b>
+<b>Světelný přejezd</b>
 
 Projekt simuluje železniční světelný přejezd. LED pásek slouží jako výstup, jako vstup optický senzor HW 201. Řízení zajišťuje Arduino.
 V normálním stavu, kdy ani jeden snímač nesnímá překážku, blikají na LED pásku dvě LED bílou barvou. To znamená situaci, kdy přes přejezd nejede vlak.
